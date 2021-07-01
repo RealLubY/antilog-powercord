@@ -1,0 +1,7 @@
+{
+    "name": "antilog",
+    "version": "1.0.0",
+    "description": "adds 2000 invisible characters to a message therefore your messages can not be displayed in the log",
+    "author": "Luby",
+    "license": "Unlicensed"
+}
