@@ -21,7 +21,7 @@ module.exports = class antilog extends Plugin {
       usage: '{c} [text]',
       executor: (args) => ({
         send: true, 
-        result: args + randzerowidth(2000)
+        result: randzerowidth(2000) + args
       })
     })
   }
